@@ -61,4 +61,4 @@ Android may ask you to allow installation from unknown sources.
 
 ### Important
 
-This is a beta version intended for testing and feedback. S
+This is a beta version intended for testing and feedback. Some features may change before the Google Play release.
