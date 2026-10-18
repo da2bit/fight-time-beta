@@ -19,7 +19,7 @@ Download the latest beta release:
 
 ## Screenshots
 
-![Configuration screen](screenshots/session-config.png)
+![Configuration screen](screenshots/session_config.png)
 
 ![Round timer](screenshots/round.png)
 
