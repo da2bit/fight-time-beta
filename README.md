@@ -19,13 +19,11 @@ Download the latest beta release:
 
 ## Screenshots
 
-![Configuration screen](screenshots/configuration.png)
+![Configuration screen](screenshots/session-config.png)
 
-![Round timer](screenshots/round-timer.png)
+![Round timer](screenshots/round.png)
 
-![Rest timer](screenshots/rest-timer.png)
-
-![Workout completed](screenshots/workout-completed.png)
+![audible alerts](screenshots/alerts.png)
 
 ## Installation
 
